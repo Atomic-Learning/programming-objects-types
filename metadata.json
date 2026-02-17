@@ -1,0 +1,22 @@
+{
+    "title": "Programming: Objects and Types",
+    "slug": "programming-objects-types",
+    "description": "Introduction to objects and types on a conceptual level. Covers what objects are as values in a program, what types are as classifications that define behavior, and why understanding types is important in programming.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming"
+    ],
+    "duration": 6,
+    "prerequisites": [
+        "programming-variables",
+        "programming-integers-and-floats",
+        "programming-booleans",
+        "programming-lists",
+        "programming-strings",
+        "programming-mutability-immutability"
+    ],
+    "related": [
+    ]
+}
