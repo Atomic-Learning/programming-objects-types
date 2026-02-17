@@ -14,9 +14,9 @@
         "programming-integers-and-floats",
         "programming-booleans",
         "programming-lists",
-        "programming-strings",
-        "programming-mutability-immutability"
+        "programming-strings"
     ],
     "related": [
+        "programming-mutability-immutability"
     ]
 }
