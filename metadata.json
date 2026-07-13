@@ -17,6 +17,7 @@
         "programming-strings"
     ],
     "related": [
+        "programming-object-attributes",
         "programming-mutability-immutability"
     ]
 }
