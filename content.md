@@ -27,13 +27,10 @@ In many programming languages, especially object-oriented ones, a class defines 
 
 There are many types in programming and each will behave in a different way.
 
-**Integer:** A type representing whole numbers. With integers, you can perform arithmetic (add, subtract, multiply, divide), compare them (greater than, less than), and check equality.
-
-**String:** A type representing text (sequences of characters). With strings, you can concatenate them (join them together), extract individual characters, measure their length, and compare them alphabetically.
-
-**Boolean:** A type with only two possible values: `true` and `false`. Booleans are used to represent truth values and are essential for making decisions in programs.
-
-**List:** A type representing an ordered collection of items. With lists, you can access individual items by position, add or remove items, and iterate through all items.
+* **Integer:** A type representing whole numbers. With integers, you can perform arithmetic (add, subtract, multiply, divide), compare them (greater than, less than), and check equality.
+* **String:** A type representing text (sequences of characters). With strings, you can concatenate them (join them together), extract individual characters, measure their length, and compare them alphabetically.
+* **Boolean:** A type with only two possible values: `true` and `false`. Booleans are used to represent truth values and are essential for making decisions in programs.
+* **List:** A type representing an ordered collection of items. With lists, you can access individual items by position, add or remove items, and iterate through all items.
 
 # The Relationship Between Objects and Types
 
